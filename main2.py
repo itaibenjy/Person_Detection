@@ -59,7 +59,7 @@ def process_video(input_path, output_path, frame_rate=12):
     out.release()
 
 # Example usage
-input_video_path = 'video.mp4'
+input_video_path = 'sample.mov'
 output_video_path = 'output.mp4'
 process_video(input_video_path, output_video_path)
 
